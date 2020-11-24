@@ -12,5 +12,5 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https.linkedin.com/in/alexlangev
+[linkedin]: https://linkedin.com/in/alexlangev
 [twitter]: https://twitter.com/codingcanuk
