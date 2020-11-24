@@ -8,7 +8,9 @@
 - 🙃 Fun fact: Some infinite sets are vastly larger than other infinite sets...
 
 ### Languages and Tools:
-
+<span></span>
+<span></span>
+<span></span>
   <span>
     <strong>Front-End:</strong>
     <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -20,10 +22,12 @@
   <br>
 
   <span>
-    <strong>Back-End:</strong> 
-    <img alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img alt="MongoDB" width="28px" src="mongo.png" />
+    <strong>Back-End:</strong>
+    <span   display="position: absolute; left: 300px">
+      <img alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+      <img alt="MongoDB" width="28px" src="mongo.png" />
+    </span> 
   </span>
   <br>
 
