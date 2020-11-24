@@ -34,6 +34,7 @@
   </span>
   <br />
 
+---
   <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -41,6 +42,7 @@
 
 </details>
 <br />
+---
 
 ### Where to find me:
 
