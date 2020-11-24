@@ -7,6 +7,8 @@
 - 🎉 2021 Goals: Land my first Dev job and complete my Mathematics major.
 - 🙃 Fun fact: Some infinite sets are vastly larger than other infinite sets...
 
+--- 
+
 ### Languages and Tools:
   <span>
     <strong>Front-End:</strong>
@@ -41,7 +43,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexlangev&show_icons=true&hide_border=true" />
 
 <br />
----
+
+--- 
+
 
 ### Where to find me:
 
