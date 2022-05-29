@@ -2,7 +2,7 @@
 
 ### I'm a Developper, lifelong learner of Math and Physics and a halfway decent Cook
 - :octocat: I'm looking to collaborate on open source projects.
-- 🔨 A personnal blog is in the works. Stay tuned!
+- 🔨 A personnal blog is in the works. [Click here](https://www.thecodingcanuck.com) here to see a very rough draft.
 - 🎉 2022-2023 Goals: Land a job in a data related field and complete my Mathematics major.
 - 🙃 Fun fact: Some infinite sets are vastly larger than other infinite sets...
 
