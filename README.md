@@ -12,7 +12,7 @@
 
 #### Languages
 - Javascript
-- Python
+- Python and dableb in R
 - Html, Markdown, LaTeX, Css
 
 #### Javascript Frameworks/Libraries
