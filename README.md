@@ -13,6 +13,7 @@
 #### Languages
 - Javascript
 - Python
+- R
 - Html, Markdown, LaTeX, Css
 
 #### Javascript Frameworks/Libraries
