@@ -1,6 +1,6 @@
 ### Hello world, My name is Alex!
 
-### I'm a Developper, lifelong learner of Math and Physics and a halfway decent Cook
+### I'm a Developper, lifelong learner of Math and a halfway decent Cook
 - :octocat: I'm looking to collaborate on open source projects.
 - ✏️ My personnal blog. [Click here](https://www.thecodingcanuck.com)
 - 🎉 2023 Goals: Immerse myself is the Haskell programming language and complete my Mathematics major.
