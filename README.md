@@ -34,7 +34,7 @@
 
 ### Where to find me:
 
-[linkedin](https://linkedin.com/in/alexlangev)
-[twitter]:(https://twitter.com/thecodingcanuck)
-[blog]:(https://thecodingcanuck.com)
-[HackerRank]:(https://www.hackerrank.com/alex_langevin)
+[linkedin](https://linkedin.com/in/alexlangev)  
+[twitter](https://twitter.com/thecodingcanuck)  
+[blog](https://thecodingcanuck.com)  
+[HackerRank](https://www.hackerrank.com/alex_langevin)  
