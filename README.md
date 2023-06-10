@@ -1,9 +1,9 @@
 ### Hello world, My name is Alex!
 
-### I'm a Developper, lifelong learner of Math and a halfway decent Cook
+### I'm a Developper, aspiring Security Researcher and lifelong learner of Math.
 - :octocat: I'm looking to collaborate on open source projects.
-- ✏️ My personnal blog. [Click here](https://www.thecodingcanuck.com)
-- 🎉 2023 Goals: Immerse myself is the Haskell programming language and complete my Mathematics major.
+- ✏️ I blog about my daily grind on here [Click here](https://www.thecodingcanuck.com)
+- 🎉 2023 Goals: Get a full-time job in the web3 space.
 - 🙃 Fun fact: Some infinite sets are vastly larger than other infinite sets...
 
 --- 
@@ -11,11 +11,10 @@
 ### Languages and Tools:
 
 #### Languages
+- Solidity
 - Javascript
 - Python
-- Html, Markdown, LaTeX, CSS
-- Haskell
-- Solidity
+- Html, CSS, Markdown, LaTeX
 
 #### Javascript Frameworks/Libraries
 - React
@@ -26,15 +25,21 @@
 - Pandas
 - BeautifulSoup4
 
+#### Solidity Frameworks/Libraries
+- Hardhat
+- Foundry
+- Ethereum Security Toolbox by Trail of Bits
+
 #### Tools:
 - Bash
 - Git/Github/Gitlab
+
 ---
 
 
 ### Where to find me:
 
+[blog](https://thecodingcanuck.com) 
 [linkedin](https://linkedin.com/in/alexlangev)  
 [twitter](https://twitter.com/thecodingcanuck)  
-[blog](https://thecodingcanuck.com)  
-[HackerRank](https://www.hackerrank.com/alex_langevin)  
+[LeetCode](https://leetcode.com/AlexLangev/)
