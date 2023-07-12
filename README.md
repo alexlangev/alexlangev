@@ -16,6 +16,11 @@
 - Python
 - Html, CSS, Markdown, LaTeX
 
+#### Solidity Frameworks/Libraries
+- Hardhat
+- Foundry
+- Ethereum Security Toolbox by Trail of Bits
+
 #### Javascript Frameworks/Libraries
 - React
 - Next.js
@@ -24,11 +29,6 @@
 #### Python Frameworks/Libraries
 - Pandas
 - BeautifulSoup4
-
-#### Solidity Frameworks/Libraries
-- Hardhat
-- Foundry
-- Ethereum Security Toolbox by Trail of Bits
 
 #### Tools:
 - Bash
@@ -39,7 +39,7 @@
 
 ### Where to find me:
 
-[blog](https://thecodingcanuck.com) 
-[linkedin](https://linkedin.com/in/alexlangev)  
+[blog](https://thecodingcanuck.com)   
+[linkedin](https://linkedin.com/in/alexlangev)    
 [twitter](https://twitter.com/thecodingcanuck)  
-[LeetCode](https://leetcode.com/AlexLangev/)
+[LeetCode](https://leetcode.com/AlexLangev/)  
