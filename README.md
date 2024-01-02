@@ -1,45 +1,21 @@
-### Hello world, My name is Alex!
+## Hello world, My name is Alex!
 
-### I'm a Developper, aspiring Security Researcher and lifelong learner of Math.
-- :octocat: I'm looking to collaborate on open source projects.
-- ✏️ I blog about my daily grind on here [Click here](https://www.thecodingcanuck.com)
-- 🎉 2023 Goals: Get a full-time job in the web3 space.
-- 🙃 Fun fact: Some infinite sets are vastly larger than other infinite sets...
+I'm a Full-Stack Developper and undergraduate in Theoretical mathematics based in 🍁 Montreal Canada.
 
---- 
-
-### Languages and Tools:
-
-#### Languages
+### Some of the things I code with:
 - Solidity
-- Javascript
 - Python
-- Html, CSS, Markdown, LaTeX
+- JavaScript
+- Html / Css
+- React.js
+- Node.js
+- SQL
 
-#### Solidity Frameworks/Libraries
-- Hardhat
-- Foundry
-- Ethereum Security Toolbox by Trail of Bits
-
-#### Javascript Frameworks/Libraries
-- React
-- Next.js
-- Ethers.js
-
-#### Python Frameworks/Libraries
-- Pandas
-- BeautifulSoup4
-
-#### Tools:
-- Bash
-- Git/Github/Gitlab
-
----
-
-
-### Where to find me:
+### Find me on:
 
 [blog](https://thecodingcanuck.com)   
 [linkedin](https://linkedin.com/in/alexlangev)    
-[twitter](https://twitter.com/thecodingcanuck)  
-[LeetCode](https://leetcode.com/AlexLangev/)  
+[twitter](https://twitter.com/thecodingcanuck)    
+[boot.dev](https://www.boot.dev/u/playfulimportance17)  
+[code signal](https://app.codesignal.com/profile/alexlangev/overview)  
+[code hawks](https://www.codehawks.com/profile/clkg5xveq0000i9082f9kiksa)  
