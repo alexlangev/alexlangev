@@ -11,6 +11,9 @@ I'm a Full-Stack Developper and undergraduate in Theoretical mathematics based i
 - Node.js
 - SQL
 
+### 2024 accomplishments
+- I completed all 29 levels of the [Ethernaut](https://www.thecodingcanuck.com/ethernaut) ctf.
+
 ### Find me on:
 
 [blog](https://thecodingcanuck.com)   
