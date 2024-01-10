@@ -14,8 +14,8 @@ I'm a web3 security researcher, full-stack developer, and undergraduate studying
 - I completed all 29 levels of the [Ethernaut](https://www.thecodingcanuck.com/ethernaut) ctf
 - 196th in XP ranking on the Code Hawks [leaderboard](https://www.codehawks.com/leaderboard)
 - [Boot.Dev](https://www.boot.dev/u/playfulimportance17)
-  - 391th all-time learner
-  - Problems solved 503
+  - 370th all-time learner
+  - Problems solved 529
   - 4 courses completed:
     - [Learn Python](https://www.boot.dev/certificate/playfulimportance17/f9a25dfb-3e00-4727-ac78-36de82315355)
     - [Learn Object Oriented Programming](https://www.boot.dev/certificate/playfulimportance17/f9a48bbc-d1ff-4388-bf0c-23c6e3c60ae0)
