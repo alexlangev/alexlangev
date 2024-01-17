@@ -1,6 +1,11 @@
 ## Hello world, My name is Alex!
 
-I'm a 🚀 Full Stack Developer, 🔐 Smart Contract Engineer and Security Expert and a 🎓 Theoretical Mathematics major based in 🍁 Montreal, Canada.
+### A little about me:
+
+🚀 Full Stack Developer   
+🔐 Smart Contract Engineer and Security Expert  
+🎓 Theoretical Mathematics major     
+🍁 Currently based in  Montreal, Canada  
 
 ---
 
