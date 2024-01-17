@@ -1,6 +1,8 @@
 ## Hello world, My name is Alex!
 
-I'm a web3 security researcher, full-stack developer, and undergraduate studying theoretical mathematics in 🍁 Montreal, Canada.
+I'm a 🚀 Full Stack Developer, 🔐 Smart Contract Engineer and Security Expert and a 🎓 Theoretical Mathematics major based in 🍁 Montreal, Canada.
+
+---
 
 ### Some of the things I code with:
 - Solidity
@@ -10,24 +12,30 @@ I'm a web3 security researcher, full-stack developer, and undergraduate studying
 - React.js
 - SQL
 
-### 2024 accomplishments 🎉 (Updated weekly)
-- I completed all 29 levels of the [Ethernaut](https://www.thecodingcanuck.com/ethernaut) ctf
-- 196th in XP ranking on the Code Hawks [leaderboard](https://www.codehawks.com/leaderboard)
-- [Boot.Dev](https://www.boot.dev/u/playfulimportance17)
-  - 370th all-time learner
-  - Problems solved 529
-  - 4 courses completed:
-    - [Learn Python](https://www.boot.dev/certificate/playfulimportance17/f9a25dfb-3e00-4727-ac78-36de82315355)
-    - [Learn Object Oriented Programming](https://www.boot.dev/certificate/playfulimportance17/f9a48bbc-d1ff-4388-bf0c-23c6e3c60ae0)
-    - [Learn Functional Programming](https://www.boot.dev/certificate/playfulimportance17/b1459f0c-21eb-41e5-b7f3-562ef69d344c)
-    - [Learn JavaScript](https://www.boot.dev/certificate/playfulimportance17/2af5c197-21eb-48b4-bd90-b0d59adb311e)
-  - 1 project completed:
-    - [Build a local dev environment](https://github.com/alexlangev/bookbot)
+---
       
-### Find me on:
+### competitive smart contracts audit findings:
+#### [Code Hawks](https://www.codehawks.com/leaderboard)  
 
+I am currently 196th in XP ranking.
+
+**Findings:**
+  - Highs (unique): 0
+  - highs: 5	
+  - Mediums: 0
+  - Lows: 1
+
+---
+
+### 2024 accomplishments 🎉 (Updated weekly)
+- I completed the [Ethernaut](https://www.thecodingcanuck.com/ethernaut) ctf
+- I'm 260th all-time learner on [Boot.Dev](https://www.boot.dev/u/playfulimportance17)
+
+---
+
+### Find me on:
 [The Coding Canuck blog](https://thecodingcanuck.com)   
-[linkedin](https://linkedin.com/in/alexlangev)    
-[twitter](https://twitter.com/thecodingcanuck)    
-[boot.dev](https://www.boot.dev/u/playfulimportance17)  
-[code hawks](https://www.codehawks.com/profile/clkg5xveq0000i9082f9kiksa)  
+[Linkedin](https://linkedin.com/in/alexlangev)    
+[Twitter](https://twitter.com/thecodingcanuck)    
+[Boot.dev](https://www.boot.dev/u/playfulimportance17)  
+[Code Hawks](https://www.codehawks.com/profile/clkg5xveq0000i9082f9kiksa)  
