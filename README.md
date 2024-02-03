@@ -2,39 +2,22 @@
 
 ### A little about me:
 
-🚀 Full Stack Developer   
-🔐 Smart Contract Engineer and Security Expert  
-🎓 Theoretical Mathematics major     
-🍁 Currently based in  Montreal, Canada  
+🚀 I am a full-stack developer (Web2 and Web3).  
+🔐 I compete in smart contract audits competitions.  
+🎓 I am a theoretical mathematics major.  
+🍁 Currently based in Montreal, Canada.  
+😺 I have three cats.  
 
 ---
 
-### Some of the things I code with:
-- Solidity
+### Some of the things I like to code with:
+- JavaScript / TypeScript
+- Go
 - Python
-- JavaScript
+- Solidity
 - Html / Css
 - React.js
 - SQL
-
----
-      
-### competitive smart contracts audit findings:
-#### [Code Hawks](https://www.codehawks.com/leaderboard)  
-
-I am currently 196th in XP ranking.
-
-**Findings:**
-  - Highs (unique): 0
-  - highs: 5	
-  - Mediums: 0
-  - Lows: 1
-
----
-
-### 2024 accomplishments 🎉 (Updated weekly)
-- I completed the [Ethernaut](https://www.thecodingcanuck.com/ethernaut) ctf
-- I'm 260th all-time learner on [Boot.Dev](https://www.boot.dev/u/playfulimportance17)
 
 ---
 
