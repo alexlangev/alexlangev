@@ -2,8 +2,7 @@
 
 ### A little about me:
 
-🚀 I am a full-stack developer (Web2 and Web3).  
-🔐 I compete in smart contract audits competitions.  
+🚀 I am a full-stack developer (Web2 and Web3).   
 🎓 I am a theoretical mathematics major.  
 🍁 Currently based in Montreal, Canada.  
 😺 I have three cats.  
@@ -13,7 +12,6 @@
 ### Some of the things I like to code with:
 - JavaScript / TypeScript
 - Go
-- Python
 - Solidity
 - Html / Css
 - React.js
@@ -22,7 +20,6 @@
 ---
 
 ### Find me on:
-[The Coding Canuck blog](https://thecodingcanuck.com)   
 [Linkedin](https://linkedin.com/in/alexlangev)    
 [Twitter](https://twitter.com/thecodingcanuck)    
 [Boot.dev](https://www.boot.dev/u/playfulimportance17)  
