@@ -10,17 +10,15 @@
 ---
 
 ### Some of the things I like to code with:
-- JavaScript / TypeScript
 - Go
+- JavaScript / TypeScript
 - Solidity
-- Html / Css
 - React.js
+- Next.js
 - SQL
 
 ---
 
 ### Find me on:
-[Linkedin](https://linkedin.com/in/alexlangev)    
-[Twitter](https://twitter.com/thecodingcanuck)    
-[Boot.dev](https://www.boot.dev/u/playfulimportance17)  
-[Code Hawks](https://www.codehawks.com/profile/clkg5xveq0000i9082f9kiksa)  
+[Linkedin](https://linkedin.com/in/alexlangev)
+[Boot.dev](https://www.boot.dev/u/man-bear-moose)
